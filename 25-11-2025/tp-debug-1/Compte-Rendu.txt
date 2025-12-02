@@ -1,0 +1,15 @@
+Exercice N°4
+
+4.1) Lors de l'execution, les fichiers calculator et TextTools se compilent cependant le fichier Main.java est composé de plusieurs erreurs.
+4.2) Les variables sont dans un premier temps affichées puis à partir du moment où elles sont utilisées ou modifiées, elles changent directement dans le code.
+4.3) Les variables en fonction de l'action avance d'une étape et recule du étape. Les variable effectuent donc l'ancien dans le sens inverse ou naturelle.
+
+4.5)
+- La méthode Add permet l'ajout des variables.
+- La méthode Multiply permet la multiplication entre les différentes variables.
+- La méthode divide permet la division entre les deux variables.
+- La méthode reverse permet de faire la conversion et l'échange entre plusieurs valeurs.
+- La méthode ToUpper permet de mettre les charactères en MAJUSCULES.
+
+4.6) Aucun bug n'a eu lieu lors du débogage.
+4.7) Pour trouver les bugs, il faut utiliser l'outil de débogage disponible directement effectuent dans l'IDE.
